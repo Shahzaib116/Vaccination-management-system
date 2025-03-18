@@ -6,7 +6,7 @@ struct Patient {
     string name;
     int age;
     string contact;
-    string status; // "Vaccinated" or "Pending"
+    string status; 
 };
 
 struct Vaccine {
